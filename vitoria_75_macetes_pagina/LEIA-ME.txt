@@ -1,0 +1,28 @@
+VITÓRIA CONCURSOS — PÁGINA 75 MACETES
+
+ARQUIVOS
+- index.html: página responsiva.
+- assets/: imagens reais extraídas do PDF enviado (capa e páginas internas).
+
+ANTES DE PUBLICAR
+1. Abra index.html e procure por CHECKOUT_URL.
+2. Cole o link verdadeiro do checkout Kiwify entre as aspas.
+3. Confirme na Kiwify se o bônus Guia de Organização dos Estudos está anexado à entrega.
+4. Confirme prazo de acesso, política de impressão e condições de parcelamento.
+5. Instale o Meta Pixel oficial no espaço indicado no fim do HTML.
+6. Faça um teste de compra/entrega e revise a página no celular.
+
+OBSERVAÇÕES
+- Não há contador de urgência nem falsa escassez.
+- O preço à vista está em R$ 47,00; parcelamento não foi inventado.
+- O mockup utiliza a capa original do PDF.
+- As prévias usam páginas originais do PDF.
+- A página não afirma acesso vitalício nem impressão liberada, pois essas configurações precisam ser verificadas.
+- A seção do bônus deve ser publicada somente se o guia estiver efetivamente incluído na entrega.
+- A página não promete aprovação.
+
+ATUALIZAÇÃO COM AS IMAGENS ENVIADAS
+- O mockup 3D transparente da apostila principal foi aplicado no destaque inicial.
+- A capa do Guia de Organização dos Estudos foi mantida fiel à arte enviada e recebeu apresentação 3D por CSS, com perspectiva e lombada.
+- O recorte transparente da Vitória foi aplicado à seção “Quem criou o material”, sobre fundo vermelho em degradê.
+- As imagens estão na pasta assets. Mantenha a pasta junto do index.html ao publicar.
